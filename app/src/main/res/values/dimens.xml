@@ -2,4 +2,7 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--在5.0之前，会默认就有一个外边距（不过并非是margin，只是效果相同）-->
+    <dimen name="fab_margin">0dp</dimen>
 </resources>
